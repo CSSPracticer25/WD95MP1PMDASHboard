@@ -17,6 +17,7 @@
         'Point 5',
 
       ],
+      
       datasets: [{
         data: [
           15339,
@@ -29,8 +30,8 @@
         ],
         lineTension: 0,
         backgroundColor: 'transparent',
-        borderColor: '#007bff',
-        borderWidth: 4,
+        borderColor: '#ff9500',
+        borderWidth: 6,
         pointBackgroundColor: '#007bff'
       }]
     },
